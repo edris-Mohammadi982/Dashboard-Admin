@@ -1,7 +1,7 @@
-import Home from "./src/pages/Home/Home"
-import Users from "./src/pages/Users/Users"
-import NewUser from "./src/pages/NewUser/NewUser"
-import Products from "./src/pages/Products/Products"
+import Home from "./src/pages/home/Home"
+import Users from "./src/pages/users/Users"
+import NewUser from "./src/pages/newUser/NewUser"
+import Products from "./src/pages/products/Products"
 
 let routes = [
     { path: "/", element: <Home />},
