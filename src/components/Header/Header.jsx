@@ -24,7 +24,7 @@ export default function Header() {
                     <div className="topbarIconContainer">
                         <SettingsIcon />
                     </div>
-                    <img src="Images/profile.jpg" className="topAvatar" />
+                    <img src="images/profile.jpg" className="topAvatar" />
                 </div>
             </div>
         </div>
